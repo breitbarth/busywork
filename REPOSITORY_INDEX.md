@@ -1,8 +1,10 @@
 # Repository Index
 
-A directory of the 38 repositories on this account as inspected on November 20, 2026. The groups below describe their current contents, rather than treating every repository as a portfolio project.
+A directory of the 39 public repositories on this account as inspected on November 20, 2026. The groups below describe their current contents, rather than treating every repository as a portfolio project.
 
 ## Account navigation
+
+- [breitbarth](https://github.com/breitbarth/breitbarth): the published public profile introduction.
 
 - [busywork](https://github.com/breitbarth/busywork): the public repository index and learning entry points.
 
@@ -13,9 +15,9 @@ Repositories not marked as forks can still contain third-party coursework, examp
 | Repository | Group | Contents |
 | --- | --- | --- |
 | [academicpages.github.io](https://github.com/breitbarth/academicpages.github.io) | Website template | .gitignore, CHANGELOG.md, CONTRIBUTING.md, Gemfile |
-| [AzureML](https://github.com/breitbarth/AzureML) | Learning materials | Intro_to_machine_learning.ipynb |
+| [AzureML](https://github.com/breitbarth/AzureML) | Machine-learning workshop | Iris classification and a legacy regression section; read the compatibility notes |
 | [installkaliandmetasploit](https://github.com/breitbarth/installkaliandmetasploit) | Learning materials | Downloading Metasploitable on Windows.pdf, Installing Kali Linux On Windows.pdf |
-| [Intro_to_NLP](https://github.com/breitbarth/Intro_to_NLP) | Learning materials | Copy_of_intro_to_nlp_workshop.ipynb, Prof_copy_intro_to_nlp_workshop.ipynb, intro_to_nlp_workshop.ipynb |
+| [Intro_to_NLP](https://github.com/breitbarth/Intro_to_NLP) | Natural language processing workshop | Text preparation, vectorization, and sentiment classification; multiple notebook copies retained |
 | [ParseHub](https://github.com/breitbarth/ParseHub) | Data exports | Faculty_run_results.csv, YELP_run_results.csv |
 | [pys-list](https://github.com/breitbarth/pys-list) | Python experiment | main.py |
 | [python-sirajnet](https://github.com/breitbarth/python-sirajnet) | Python experiment | main.py |
@@ -67,4 +69,3 @@ These are copies of upstream repositories kept for reference. The upstream proje
 ## Navigation
 
 For the account overview, open [breitbarth](https://github.com/breitbarth). For a project, begin with its README and check whether it is an experiment, coursework, a template, or reference material.
-
