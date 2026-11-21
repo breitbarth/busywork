@@ -69,3 +69,10 @@ These are copies of upstream repositories kept for reference. The upstream proje
 ## Navigation
 
 For the account overview, open [breitbarth](https://github.com/breitbarth). For a project, begin with its README and check whether it is an experiment, coursework, a template, or reference material.
+
+## Curation queue (documentation only)
+
+- Review ParseHub and other historical data exports for personal information, redistribution rights and secrets before featuring them.
+- Empty repositories and placeholders (including ggu_data_110_ML_NLP and aaron.github.io) are archive candidates after owner review; preserve references and history.
+- Keep upstream forks clearly attributed and outside the original-work showcase. Do not alter their license or present them as original creations.
+- Account-level archiving, deletion, renaming and pinning have not been performed. Use the [curated original-work portfolio](https://github.com/breitbarth/breitbarth/blob/main/PORTFOLIO.md) as the primary entry point.
