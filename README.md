@@ -1,6 +1,6 @@
 # Aaron Breitbarth's Repository Guide
 
-Start here to understand the public work on this account. [The full repository index](REPOSITORY_INDEX.md) distinguishes learning materials, experiments, templates, placeholders, and reference forks.
+This is the historical learning and reference archive. For original research, business methods and interactive examples, start with the [curated public portfolio](https://github.com/breitbarth/breitbarth/blob/main/PORTFOLIO.md). [The full repository index](REPOSITORY_INDEX.md) distinguishes learning materials, experiments, templates, placeholders, and reference forks.
 
 ## Explore the learning work
 
